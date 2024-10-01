@@ -48,7 +48,7 @@ def plot_radar(input_data, comparison_data, categories, player_name, comparison_
 
     ax.set_yticklabels([])
     ax.set_xticks(angles[:-1])
-    ax.set_xticklabels(categories, color='grey')
+    ax.set_xticklabels(categories, color='black')
 
     ax.yaxis.set_ticks(np.linspace(0, 1, 6))
     ax.yaxis.set_ticklabels(['0', '20', '40', '60', '80', '100'], color='grey')
@@ -72,7 +72,7 @@ def plot_metric(metric, player_percentile, player_value):
     ax.text(110, 0, f"{player_value:.2f}", va='center', ha='left', color='black', fontsize=8)  # Player value
     ax.text(player_percentile - 6, 0, f"{round(player_percentile)}", va='center', ha='left', color='white', fontsize=8)  # Rounded percentile value at the right end
     ax.set_xlim(0, 100)
-    ax.set_title(metric, fontsize=10, color='grey')
+    ax.set_title(metric, fontsize=10, color='black')
     ax.spines['top'].set_visible(True)
     ax.spines['bottom'].set_visible(True)
     ax.spines['left'].set_visible(True)
