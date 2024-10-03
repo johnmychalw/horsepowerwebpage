@@ -1,5 +1,5 @@
-Baseball Heatmaps Dashboard
-This Streamlit app generates interactive heatmaps for analyzing Trackman Data. It allows users to visualize advanced metrics such as expected Batting Average (xBA), expected Slugging Percentage (xSLG), whiff rates, swing rates, contact rates, take rates, and pitch percentages using trackman datasets.
+**College Baseball Trackman Heatmaps Dashboard:**
+This Streamlit app generates interactive heatmaps for analyzing Trackman Data. It allows users to visualize advanced metrics such as expected Batting Average (xBA), expected Slugging Percentage (xSLG), whiff rates, swing rates, contact rates, take rates, and pitch rates using trackman datasets.
 
 <img width="500" alt="Screenshot 2024-10-03 at 9 31 49 AM" src="https://github.com/user-attachments/assets/9003821b-55ff-4178-bfb1-905913fdcc7d"> <img width="500" alt="Screenshot 2024-10-03 at 9 34 31 AM" src="https://github.com/user-attachments/assets/23f10254-83ba-4787-a02c-f5dc3e56f6bf">
 
