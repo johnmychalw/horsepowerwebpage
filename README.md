@@ -14,7 +14,7 @@ The app includes several comparison modes:
 
 Performance Metrics:
 The app compares players based on the following physical performance tests:
-Grip Strength (Bottom Hand) / Grip Strength (Top Hand)
-Vertical Jump
-Med Ball Sit-Up Throw
+Grip Strength (Bottom Hand) / Grip Strength (Top Hand), 
+Vertical Jump,
+Med Ball Sit-Up Throw,
 Med Ball Chest Throw
