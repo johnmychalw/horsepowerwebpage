@@ -8,7 +8,7 @@ import matplotlib.pyplot as plt
 from io import BytesIO
 
 # Load data
-data = pd.read_csv('CleanHPdata2.0.csv')
+data = pd.read_csv('CleanHPdata2.1.csv')
 
 # Ensure 'Age' is treated as numeric
 data['Age'] = pd.to_numeric(data['Age'], errors='coerce')
