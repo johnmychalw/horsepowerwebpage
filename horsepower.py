@@ -6,9 +6,10 @@ from sklearn.preprocessing import quantile_transform
 from scipy.spatial.distance import euclidean
 import matplotlib.pyplot as plt
 from io import BytesIO
+from scipy.stats import gaussian_kde
 
 # Load data
-data = pd.read_csv('CleanHPdata2.1.csv')
+data = pd.read_csv('CleanHPdata2.0.csv')
 
 # Ensure 'Age' is treated as numeric
 data['Age'] = pd.to_numeric(data['Age'], errors='coerce')
@@ -24,6 +25,118 @@ for metric in metrics:
 # Define levels and positions
 levels = ['High School', 'College', 'Minors', 'MLB']
 positions = sorted(data['Position'].dropna().unique()) + ['Middle Infield', 'Corner Infield']
+
+# Function to preprocess data
+def preprocess_data(data, categories):
+    """
+    Ensure relevant columns are numeric and drop rows with missing values in these columns.
+    """
+    for col in categories:
+        data[col] = pd.to_numeric(data[col], errors='coerce')
+    return data.dropna(subset=categories)
+
+def plot_radar_fixed_mean(input_data, std_devs, categories, player_name, note=""):
+    num_vars = len(categories)
+    angles = np.linspace(0, 2 * np.pi, num_vars, endpoint=False).tolist()
+
+    # Complete the circle for radar chart
+    input_data = np.concatenate((input_data, [input_data[0]]))
+    mean_data = np.concatenate(([1] * num_vars, [1]))  # Fixed mean value for all metrics
+    std_devs = np.concatenate((std_devs, [std_devs[0]]))
+    angles += angles[:1]
+
+    # Start the plot
+    fig, ax = plt.subplots(figsize=(8, 8), subplot_kw=dict(polar=True))
+
+    # Shaded area for standard deviation
+    lower_bound = np.clip(mean_data - std_devs, 0, None)  # Ensure lower bound is not negative
+    upper_bound = mean_data + std_devs
+    ax.fill_between(angles, lower_bound, upper_bound, color='grey', alpha=0.3, label="± 1 Std Dev")
+
+    # Average line
+    ax.plot(angles, mean_data, color='black', linewidth=2, linestyle='solid', label="Group Average")
+
+    # Input data line
+    ax.plot(angles, input_data, color='lightcoral', linewidth=2, linestyle='solid', label=f"{player_name}'s Data")
+    ax.fill(angles, input_data, color='lightcoral', alpha=0.25)
+
+    # Customize axes
+    ax.set_yticklabels([])
+    ax.set_xticks(angles[:-1])
+    ax.set_xticklabels(categories, color='black')
+
+    ax.yaxis.set_ticks(np.linspace(0, 1.5, 6))
+    
+    plt.legend(loc='upper right', bbox_to_anchor=(1.3, 1.1))
+
+    if note:
+        plt.figtext(0.5, 0.02, note, ha="center", fontsize=8, color="grey")
+
+    # Save the plot to a BytesIO object
+    buf = BytesIO()
+    plt.savefig(buf, format="png", bbox_inches="tight")
+    buf.seek(0)
+    plt.close()
+
+    # Return the BytesIO object for Streamlit
+    return buf
+
+# Function to generate metric distribution plots
+def plot_metric_distributions(input_metrics, level_data, categories, player_name):
+    """
+    Plots individual input data points on the distribution curves (PDFs) of the selected level's metrics,
+    with standard deviation bands shaded and a vertical line marking the player's value.
+    """
+    num_metrics = len(categories)
+    fig, axes = plt.subplots(nrows=num_metrics, ncols=1, figsize=(6, num_metrics * 3))  # Reduced width for side alignment
+
+    for i, metric in enumerate(categories):
+        ax = axes[i] if num_metrics > 1 else axes
+
+        # Calculate the KDE for the metric
+        metric_data = level_data[metric].dropna()
+        kde = gaussian_kde(metric_data)
+
+        # Set a wider x-axis range
+        x_min = metric_data.min() - 3 * metric_data.std()  # Extend range by 3 standard deviations below
+        x_max = metric_data.max() + 3 * metric_data.std()  # Extend range by 3 standard deviations above
+        x_vals = np.linspace(x_min, x_max, 500)
+        y_vals = kde(x_vals)
+
+        # Plot the KDE curve
+        ax.plot(x_vals, y_vals, color='royalblue', label=f"{metric} Distribution", alpha=0.7)
+        ax.fill_between(x_vals, y_vals, color='royalblue', alpha=0.3)
+
+        # Calculate mean and standard deviation
+        mean = metric_data.mean()
+        std = metric_data.std()
+
+        # Shade the one standard deviation region
+        std_x_vals = np.linspace(mean - std, mean + std, 500)
+        std_y_vals = kde(std_x_vals)
+        ax.fill_between(std_x_vals, 0, std_y_vals, color='cornflowerblue', alpha=0.4, label="±1 Std Dev")
+
+        # Plot the vertical line stopping at the intersection point for input value
+        input_value = input_metrics[metric]
+        if x_min <= input_value <= x_max:
+            input_y = float(kde(input_value))  # Ensure input_y is a scalar value
+            ax.plot([input_value, input_value], [0, input_y], color='lightcoral', linestyle='-', linewidth=2, label=f"{player_name}'s Value")
+            ax.scatter([input_value], [input_y], color='coral', s=50)  # Mark the point of intersection with a dot
+
+        # Title and labels
+        ax.set_title(f"{metric} Distribution", fontsize=12)
+        ax.set_xlim(x_min, x_max)  # Explicitly set x-axis limits to show the full distribution
+        ax.set_yticks([])  # Hide y-axis ticks for cleaner appearance
+
+
+    plt.tight_layout()
+
+    # Save the figure to BytesIO for Streamlit
+    buf = BytesIO()
+    plt.savefig(buf, format="png", bbox_inches="tight")
+    buf.seek(0)
+    plt.close()
+    return buf
 
 def get_percentiles_within_group(data, columns):
     percentiles = pd.DataFrame(index=data.index)
@@ -126,11 +239,11 @@ if all([player_name, grip_strength_bottom, grip_strength_top, vertical_jump, med
     input_data = list(input_metrics.values()) + [horsepower]
 
     # Create tabs for different comparison modes
-    tabs = st.tabs(["Compare to Level", "Compare to Player", "Find Closest Match", "Compare to Position"])
+    tabs = st.tabs(["Compare to Level (Percentiles)", "Compare to Level (Mean/StD)", "Compare to Player", "Find Closest Match", "Compare to Position"])
 
     # 1. Compare to Level
     with tabs[0]:
-        st.header("Compare to Level")
+        st.header("Compare to Level (Percentiles)")
 
         # Select Group By options
         group_by = st.selectbox("Group By", ['Level', 'Age'])
@@ -174,6 +287,59 @@ if all([player_name, grip_strength_bottom, grip_strength_top, vertical_jump, med
              st.warning("Please fill out all the input fields to generate graphs.")
 
     with tabs[1]:
+        st.header("Compare to Level (Mean/StD)")
+    
+        # Select Group By options
+        group_by = st.selectbox("Group By", ['Level', 'Age'], key="group_by_selectbox")
+    
+        if group_by == 'Level':
+            group_value = st.selectbox("Select Level", levels, key="level_selectbox")
+        else:
+            group_value = st.text_input(f"Select {group_by}", key="age_inputbox")
+    
+        # Convert group_value to numeric if comparing by Age
+        if group_by == 'Age':
+            group_value = pd.to_numeric(group_value, errors='coerce')
+    
+        if group_value:  # Auto-generate graphs when user inputs the data
+            # Filter the dataset
+            comparison_group = data[data[group_by] == group_value]
+    
+            if not comparison_group.empty:
+                # Preprocess data to ensure numeric values
+                categories = list(input_metrics.keys())
+                comparison_group = preprocess_data(comparison_group, categories)
+    
+                # Calculate averages and standard deviations for the selected group
+                average_values = comparison_group[categories].mean().values
+                std_devs = comparison_group[categories].std().values / average_values  # Std dev as a percentage of the mean
+    
+                # Normalize input data as a percentage of the mean
+                input_data_normalized = [val / avg for val, avg in zip(input_metrics.values(), average_values)]
+    
+                # Plot the radar chart
+                radar_img = plot_radar_fixed_mean(
+                    input_data=input_data_normalized,
+                    std_devs=std_devs,
+                    categories=categories,
+                    player_name=player_name,
+                    note=f"Comparison to {group_value} group (values as percentages of the mean)."
+                )
+    
+                # Display the radar chart and metric distributions
+                col1, col2 = st.columns([2, 1])
+                with col1:
+                    st.image(radar_img)
+                with col2:
+                    # Plot and display metric distributions
+                    distribution_img = plot_metric_distributions(input_metrics, comparison_group, categories, player_name)
+                    st.image(distribution_img, use_column_width=True)
+            else:
+                st.error("No data found for the specified group.")
+        else:
+            st.warning("Please fill out all the input fields to generate graphs.")
+    
+    with tabs[2]:
         st.header("Compare to Player")
     
         first_name = st.text_input("First Name")
@@ -219,7 +385,7 @@ if all([player_name, grip_strength_bottom, grip_strength_top, vertical_jump, med
         else:
             st.warning("Please fill in all required player inputs and the player name.")
     
-    with tabs[2]:
+    with tabs[3]:
         st.header("Find Closest Match")
         
         # Ensure that all inputs are provided before proceeding
@@ -267,7 +433,7 @@ if all([player_name, grip_strength_bottom, grip_strength_top, vertical_jump, med
         else:
             st.warning("Please fill in all required player inputs.")
 
-    with tabs[3]:
+    with tabs[4]:
         st.header("Compare to Position")
         
         # Select Level and Position
@@ -321,4 +487,3 @@ if all([player_name, grip_strength_bottom, grip_strength_top, vertical_jump, med
                 st.error("No data found for the selected position and level.")
         else:
             st.warning("Please fill in all required player inputs.")
-
