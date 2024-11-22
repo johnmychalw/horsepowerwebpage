@@ -1,0 +1,744 @@
+﻿First Name,Last Name,Age,Level,Position,Grip Strength (Bottom Hand),Grip Strength (Top Hand),Combined Grip,Vertical Jump,Med Ball SitUp,Med Ball Chest,Horsepower
+Hayden,Travinski,20,College,Catcher,68,75,143,16,27,26.67,69.67
+Alex,Milazzo,20,College,Catcher,57,58,115,22,20.33,20.92,63.25
+Jacob,Messina,19,College,Catcher,58.6,57.1,115.7,22,20,20.67,62.67
+Logan,Vaughan,20,College,Catcher,58.7,57,115.7,25.8,25,22,72.8
+Christian,Jubin,18,College,Catcher,55.3,58.8,114.1,33.3,22.67,21.67,77.64
+Zach,Meaux,19,College,Catcher,41.9,38.2,80.1,27.6,20,18.25,65.85
+Corey ,Collins,21,College,Catcher,78.6,64.9,143.5,29.7,25.5,26,81.2
+Dylan,Crews,18,College,Centerfield,68,63,131,41,26.92,26.25,94.17
+Sam,Turilli,19,College,Centerfield,53.8,63.4,117.2,31.8,22.33,21.42,75.55
+Tre',Morgan,19,College,First Base,61.6,60.3,121.9,31.9,25.75,24.75,82.4
+Casen,Neumann,20,College,First Base,53.3,46.4,99.7,27.1,23.25,20.92,71.27
+Greg,Ryan,19,College,First Base,37.2,39.9,77.1,27.7,14.42,15.67,57.79
+Jonathan,Lang,19,College,Corner OF,53,47.5,100.5,28,21.33,20.5,69.83
+Tripp,Hare,20,College,Corner OF,52,49.9,101.9,23.4,20.4,19.1,62.9
+Bradley,Pelle,19,College,Corner OF,65.8,70.5,136.3,29.9,20.5,19.25,69.65
+AJ,Bailey,20,College,Corner OF,69.1,78.5,147.6,31.3,21.75,20.25,73.3
+Charlie,Condon,20,College,Corner OF,63.6,47.9,111.5,28.6,24.42,25.26,78.28
+Henry,Sipchen,20,College,Pitcher,41.5,54.4,95.9,26,16.83,17.17,60
+Mitchell,Sanford,20,College,Corner OF,42.9,58.8,101.7,31,23.25,23.42,77.67
+Brayden,Jobert,22,College,Corner OF,84.3,76.1,160.4,27,26,23.5,76.5
+Braedon,Karpathios,19,College,Corner OF,69.8,62.6,132.4,25.2,21.25,24.08,70.53
+Will,Safford ,19,College,Second Base,51,46,97,29,21.67,22.83,73.5
+Rhett,Hebert,21,College,Second Base,53,53,106,23,21.17,19.17,63.34
+Jace,Jung,20,College,Second Base,56,58,114,25,23.75,23.25,72
+Rhett,Hebert,22,College,Second Base,52.6,58,110.6,30,24,21.25,75.25
+Jace,Jung,21,College,Second Base,62.4,59.6,122,27.3,22.92,22.33,72.55
+Cole,Parker,21,College,Second Base,46.4,44.6,91,27.9,19.5,17.5,64.9
+Matthew ,Keller,18,College,Second Base,56.1,58.2,114.3,26,19.5,21.25,66.75
+Luke,Hill,19,College,Shortstop,77.9,81.3,159.2,31.3,23.92,22.33,77.55
+Kolby,Branch,20,College,Shortstop,57.6,55.8,113.4,29.9,20.75,21.26,71.91
+Jacob,Berry,20,College,Third Base,71.9,74.6,146.5,26.2,25.25,21.58,73.03
+Tommy,White,19,College,Third Base,52.2,52.6,104.8,23.5,22.25,22.5,68.25
+Addison,Ainsworth,22,College,Corner OF,58,54,112,30.7,21.6,24.2,76.5
+Dawson,Willis,20,College,Shortstop,68.9,65,133.9,29.9,24.75,23.75,78.4
+Ashton,Larson,19,College,Corner OF,73.2,75.2,148.4,35,26.33,22,83.33
+Daniel,Dickinson,20,College,Shortstop,63.8,59.5,123.3,32,25,23.3,80.3
+Jaden,Collura,18,High School,Catcher,51,52,103,19.5,19.08,18.92,57.5
+Presley,Courville,15,High School,Catcher,52,46,98,24,18.25,19.67,61.92
+Cameran,Christ,16,High School,Catcher,64,61,125,23,18.67,22.33,64
+Brady,Neal,16,High School,Catcher,56.9,62.2,119.1,26.8,19.83,21.5,68.13
+Jaxon,Adams,16,High School,Catcher,56.2,54.9,111.1,24,18.5,20,62.5
+Jonathan,Vigoa,17,High School,Catcher,61.8,55.9,117.7,31,20.83,21.67,73.5
+Braydin,Bevilacqua,16,High School,Catcher,58.7,55.6,114.3,24.5,17.92,20.5,62.92
+Miles,Birke,16,High School,Catcher,49,58,107,22.5,20.5,20.5,63.5
+Crawford,Courville,17,High School,Centerfield,52,58,110,26,21.45,22.6,70.05
+Brooks,Wright,15,High School,Centerfield,32,40,72,23,17.67,19.67,60.34
+Braden,McLin,16,High School,Centerfield,54.3,57.7,112,27,21,21.67,69.67
+Reid,Broussard,16,High School,Centerfield,43.7,48.7,92.4,28,24,22,74
+Conner,Rodrigue,17,High School,Centerfield,67.4,65.6,133,29,27.58,23.5,80.08
+Jordan,Taylor,18,High School,Centerfield,74.8,63.5,138.3,36,24.67,23.08,83.75
+Jake,Kulikowski,16,High School,Corner OF,69.5,65.6,135.1,26,21.17,22.33,69.5
+Cooper,Evans,17,High School,Corner OF,68.1,57.1,125.2,24,17.58,19.5,61.08
+Tyler,Wolfe,17,High School,Corner OF,43.1,42.7,85.8,22.5,19.75,18.83,61.08
+Maddox,Sommers,15,High School,Corner OF,35,45.1,80.1,27,12.25,14.75,54
+Jackson,Landry,14,High School,First Base,49,51,100,20,18.5,18.5,57
+Grant ,Comeaux,17,High School,First Base,55,58,113,24,19,20.2,63.2
+Donny ,Sandifer,16,High School,First Base,55,60,115,23,19.25,21.25,63.5
+Grant,Trahan,15,High School,First Base,63,63,126,26,18.75,21,65.75
+Tyler,Castellanos,16,High School,First Base,44,40,84,16,15.25,15.75,47
+Mason,Zambo,18,High School,First Base,51,54,105,24.5,22.92,23.67,71.09
+Brant,Smith,18,High School,First Base,65,67,132,21,25.5,25,71.5
+Peyton,Woods,16,High School,First Base,58.2,58.7,116.9,20,20.75,20.33,61.08
+Andon,Lewis,17,High School,First Base,56.4,70,126.4,26,20.58,24,70.58
+Coletin,Berger,16,High School,First Base,57.1,44.1,101.2,28,18.42,19.5,65.92
+Gavin,Valenzuela,15,High School,First Base,51.9,51.5,103.4,22,17.75,18.83,58.58
+Houston,Theriot,15,High School,Corner OF,40,37,77,16,16.167,16.083,48.25
+Addison,Ainsworth,18,High School,Corner OF,47,42,89,30.5,21.67,25,77.17
+Kameron,Edwards,18,High School,Corner OF,47,56,103,29,19.91,23.45,72.36
+Donovan,LaSalle,15,High School,Corner OF,45,53,98,22,19.2,23.5,64.7
+Blake,Moss,17,High School,Corner OF,51,53,104,23,18.75,19,60.75
+Diego,Corrales,15,High School,Corner OF,42,42,84,21,16.33,18.08,55.41
+Cooper,Scott,16,High School,Corner OF,42,51,93,25,22.5,23.25,70.75
+Lane,Lusk ,15,High School,Corner OF,40,37,77,20,16.25,19.25,55.5
+Hudson,Spangler,15,High School,Corner OF,42.8,50.6,93.4,22.5,16.67,19.83,59
+Austin,Ainsworth,16,High School,Corner OF,41,44.7,85.7,27,18,18.75,63.75
+Jayson,Jones,17,High School,Corner OF,71.2,61.1,132.3,31.8,27.3,27.3,86.4
+Jackson,Szeliga,15,High School,Corner OF,37.6,33.8,71.4,22,14.92,15.42,52.34
+Bryce,Buscaglia,15,High School,Corner OF,37.2,43.8,81,24,16.25,18,58.25
+Anthony,Smith,17,High School,Corner OF,54.2,59,113.2,30,21.25,22.67,73.92
+Gavin,Guidry,17,High School,Pitcher,50,54,104,24,18.1,23,65.1
+Drake,Pousson ,14,High School,Pitcher,33,35,68,20,16.67,16.25,52.92
+Landon,Victorian,15,High School,Pitcher,49,44,93,19,19.33,19,57.33
+Nolan,McDonald,17,High School,Pitcher,44,47,91,20,17.33,19.33,56.66
+Alex,Ainsworth,15,High School,Pitcher,34.2,31.5,65.7,23,18.33,19.25,60.58
+Dylan,Marionneaux,15,High School,Pitcher,34.5,36.5,71,23,15.08,16.58,54.66
+Jeremy,Weaver,18,High School,Pitcher,59.8,72.5,132.3,27,22.83,19.92,69.75
+Ben,Robichaux,16,High School,Second Base,56,51,107,26,20.58,23,69.58
+Ethan,Medlin,18,High School,Second Base,58,55,113,23,22.5,25.3,70.8
+Kasen,Bellard,15,High School,Second Base,48,45,93,21,18.33,20.2,59.53
+Holden,LeBlanc,16,High School,Second Base,44,42,86,25,16.7,18.5,60.2
+Ashton,Quiller,16,High School,Second Base,62,55,117,25,19.75,20.17,64.92
+Owen,Galt,15,High School,Second Base,40,40,80,22,15.11,19.25,56.36
+Matthew,Keller,15,High School,Second Base,43,47,90,23,16.33,18.83,58.16
+Nick,Lester,17,High School,Second Base,48.2,42.7,90.9,25,16.42,19.67,61.09
+Brandon,McDaniel,16,High School,Second Base,42.2,41.7,83.9,22.4,15.42,15.17,52.99
+Justin,Higgins,16,High School,Second Base,51.7,45.9,97.6,26.5,17.17,18.33,62
+Kyle,DeBarge,17,High School,Shortstop,55,52,107,27,19.5,31,77.5
+Garrett,Beadle,17,High School,Shortstop,49.2,48.9,98.1,27.5,19.5,20.3,67.3
+Carter,St. Romain,15,High School,Shortstop,50,52.7,102.7,23,15.25,15.25,53.5
+Angel,Barron,15,High School,Shortstop,53.7,48,101.7,29,21.5,18.75,69.25
+Grant,Gallagher,17,High School,Shortstop,70.6,70.4,141,29,18.08,22.58,69.66
+Drew,Bourgeois,15,High School,Third Base,25,27,52,17,11.7,13,41.7
+Britt,Vick,14,High School,Third Base,28,27,55,17,9.75,14.17,40.92
+Cameron,Portillo,17,High School,Third Base,51.2,48.7,99.9,22,18.67,21,61.67
+Ryan,McKinney,16,High School,Third Base,36,39.5,75.5,20.5,14.67,17.75,52.92
+Cayden,Arnold,16,High School,First Base,60.3,58.7,119,21,22.5,20.75,64.25
+Todd,Goudeau,17,High School,Corner OF,47,45.4,92.4,23.5,20.8,19.67,63.97
+Will,Romero,17,High School,Corner OF,47.5,48.7,96.2,25.5,19.42,19.58,64.5
+Jalen,Ballard,17,High School,Second Base,52.9,49.8,102.7,28.5,17.1,19,64.6
+Ethan,Statham,18,High School,First Base,51.9,54.8,106.7,26,23.17,21.75,70.92
+Carson,Harris,17,High School,Catcher,52.5,46.5,99,22.5,17.5,19.25,59.25
+Braden,Clark,17,High School,First Base,47,46.9,93.9,24,18.67,18.67,61.34
+Matthew,Keller,16,High School,Shortstop,48.8,55.5,104.3,24.5,18.33,19.75,62.58
+Dylan,Marionneaux,16,High School,Pitcher,41.9,44,85.9,28,16.83,16.83,61.66
+Lane,Felder,17,High School,Third Base,49.3,51.8,101.1,28.5,21.25,22,71.75
+Sawyer,Seguin,15,High School,Second Base,30,27.4,57.4,21,11,14.67,46.67
+Cole,Paxton,17,High School,Third Base,63.4,55.3,118.7,25,25,22.33,72.33
+Carson,Dayton,15,High School,Corner OF,41.4,37.4,78.8,23.5,17.75,18.33,59.58
+Caden,Detre,16,High School,Corner OF,63.4,45.7,109.1,23,19.58,17.5,60.08
+Roman,Albert,15,High School,Third Base,40.2,38.9,79.1,23,15.83,18.67,57.5
+Gauge,McVea,16,High School,Corner OF,53.3,63.2,116.5,24.5,17,18.42,59.92
+Brady,Sanchez,16,High School,Corner OF,35.9,37.6,73.5,24,14.08,16.08,54.16
+Ian,D'Amico,15,High School,Second Base,34.8,30.7,65.5,26,13.75,15.17,54.92
+Fischer,Romero,14,High School,Second Base,41.6,49.8,91.4,23,15.08,16.67,54.75
+Reece,Pierre,16,High School,Catcher,47.7,43.6,91.3,29.5,20,20.75,70.25
+John,Bradley,14,High School,Catcher,30.8,28.8,59.6,20,13.58,15.33,48.91
+Owen,Walters,17,High School,First Base,47.7,58.8,106.5,24.5,20.33,20.5,65.33
+Jake,Lipscomb,14,High School,Second Base,29.1,34,63.1,19,12.5,14,45.5
+Karson,Perkins,14,High School,First Base,32.2,32.1,64.3,19.5,12.08,15.83,47.41
+Cole,Cranford,17,High School,Shortstop,56.7,61.2,117.9,24.5,22.67,21,68.17
+Brady,Neyland,17,High School,Centerfield,35.8,36.3,72.1,24,18.67,16.5,59.17
+Talan,Wallace,15,High School,Corner OF,37.4,36.8,74.2,22,15.17,14.58,51.75
+Skyler,Andrews,14,High School,Corner OF,28,28.2,56.2,25,11.08,13.67,49.75
+Hunter,Trotti,16,High School,Corner OF,42.7,49.8,92.5,25,17.42,18.67,61.09
+Aiden,Karr,15,High School,Corner OF,43.8,47.2,91,24.6,16.75,16.33,57.68
+Drew,Bourgeois,16,High School,Second Base,41.8,40.3,82.1,26,18.17,15.83,60
+Grant,Oubre,15,High School,Catcher,63.3,64.4,127.7,24.4,19.83,19.17,63.4
+Jack,Ruckert,14,High School,Shortstop,36.3,33.5,69.8,25.7,22.42,20.5,68.62
+Olin,Ward,17,High School,Third Base,44,51.1,95.1,26,22,20.33,68.33
+Aiden,Elliott,15,High School,Third Base,55.6,62.7,118.3,26,22.33,19.92,68.25
+Jordan,Trapani,18,High School,Catcher,47.2,57.6,104.8,27.8,19,20.5,67.3
+Steven,Spalitta,17,High School,Catcher,61.1,58.7,119.8,28.1,22.6,21.6,72.3
+Dune,Staniszewski,15,High School,Third Base,36.3,33.3,69.6,23.5,20.92,19.67,64.09
+Jake,Smith,18,High School,Shortstop,51.1,51.4,102.5,25.3,17,18.33,60.63
+Trip,Dobson,17,High School,Third Base,49.7,50.7,100.4,28,22.67,20.75,71.42
+Brooks,Wright,17,High School,Centerfield,44.3,44.5,88.8,28.4,21.83,21,71.23
+Cooper,Smith,15,High School,Catcher,51.9,50,101.9,22.8,20.5,20,63.3
+Cole,Johnson,17,High School,First Base,54.8,56.5,111.3,28.4,26.67,23.5,78.57
+Harry,Pelzman,16,High School,First Base,40.1,44,84.1,22.4,20.25,18.08,60.73
+William,Barnett,15,High School,Third Base,41.2,38.6,79.8,20.5,15.4,16.3,52.2
+Gabriel,Ciechanover,16,High School,Corner OF,51.4,49.2,100.6,26.9,23.5,22.33,72.73
+Josiah,Rodriguez,15,High School,Shortstop,33.8,37.8,71.6,30.1,23.75,22.25,76.1
+Ayden,Alfaro,16,High School,Second Base,40.2,42.1,82.3,27.2,20.17,19.83,67.2
+Jake,Downing,16,High School,Shortstop,48.9,44.1,93,27.4,19.67,19.33,66.4
+Jaden,Lim,16,High School,Corner OF,26.5,40,66.5,27,17,18.42,62.42
+Hayden,Kibbe,18,High School,Corner OF,44.6,46.1,90.7,26.3,21.5,19.42,67.22
+Joshua,Barajas,16,High School,Second Base,38.9,40.2,79.1,26,18.67,18.83,63.5
+Jonathan,Elbourne,18,High School,Second Base,54.9,51.5,106.4,25.1,19.33,20.08,64.51
+Cade,Rodi,17,High School,Corner OF,42.9,38.2,81.1,25.5,18.17,20.5,64.17
+Tanner,Powell,17,High School,Corner OF,42.5,46.8,89.3,26.5,20.08,21,67.58
+Brandon,Daugherty,17,High School,Shortstop,42.4,38.4,80.8,27.3,16.08,18.67,62.05
+Dylan,Thompson,17,High School,Shortstop,61.2,57.4,118.6,29.8,19.08,18.58,67.46
+Eli,Lirette,18,High School,Corner OF,59.2,60.1,119.3,28.3,20.25,19.83,68.38
+Dylan,Biddick,18,High School,Corner OF,62.4,54.8,117.2,25.8,18.92,17.92,62.64
+Noah,Sullivan,14,High School,Corner OF,44.1,46.7,90.8,23.6,15.42,17.83,56.85
+Brein,Ledford,15,High School,Corner OF,40.2,44.6,84.8,22.4,15.75,20.75,58.9
+Walker,Fortune,15,High School,Catcher,40.5,40.7,81.2,15,14.08,13.92,43
+Jack,Gordon,15,High School,Corner OF,42.6,44,86.6,22.1,18.75,19,59.85
+Drew,Daigle,15,High School,Third Base,42.8,38.7,81.5,22.9,16.83,18.42,58.15
+Jackson,Graddick,17,High School,Corner OF,33.7,47.6,81.3,33.6,17.33,18,68.93
+Grayson,Stroup,14,High School,Second Base,26.2,26.7,52.9,20.7,10.58,12.42,43.7
+Tyler,Sciambra,15,High School,First Base,34.2,30.2,64.4,17.8,15.5,15.9,49.2
+Luke,McClure,16,High School,Centerfield,30.1,35.8,65.9,27.2,18.8,17.6,63.6
+Brandon,Thomas,15,High School,Corner OF,31.4,43.7,75.1,24.3,21,19.5,64.8
+Dylan,Dicharry,16,High School,First Base,46.2,52.8,99,24.4,19.5,21.5,65.4
+Konnor,Griffin,16,High School,Shortstop,61.7,59.9,121.6,31.2,23.42,24.08,78.7
+Dune,Staniszewski,15,High School,Third Base,56.7,57.6,114.3,24.6,20.67,21.92,67.19
+Fred,Fields,16,High School,Second Base,35.9,33.2,69.1,23.2,18,18.5,59.7
+Jackson,Hood,16,High School,Pitcher,64,62.7,126.7,32.4,21.8,22.83,77.03
+Connor,Donnelly,15,High School,Second Base,33.6,33.8,67.4,24.6,18,17.92,60.52
+Tannar,Patterson,16,High School,Second Base,59.8,60.8,120.6,30.9,22.9,24.5,78.3
+Dalton,Sabathe,16,High School,Catcher,57.6,54.4,112,24.4,20.92,20.08,65.4
+Jack,Westfall,14,High School,Corner OF,46.4,43.4,89.8,24.3,13.38,13.75,51.43
+Martin,Shelar,15,High School,Corner OF,53,55,108,31.5,20.3,17.5,69.3
+Jack,Connaughton,16,High School,Second Base,42.2,44.9,87.1,30,17,19,66
+Ryan,Kucherak,18,High School,Shortstop,59.1,60.4,119.5,32.2,23.58,22,77.78
+Ben,McPherson,14,High School,Corner OF,44.4,48.9,93.3,22.4,12.5,16,50.9
+Grayson,Stroup,15,High School,Second Base,27.3,31.6,58.9,23.7,13.5,14.17,51.37
+Dylan,Robichaux ,16,High School,Centerfield,54.1,43.6,97.7,31.7,20.75,17.25,69.7
+Lachlan,Vella,16,High School,Shortstop,59.1,60,119.1,27.1,20.75,19.08,66.93
+Junior,Herazo,18,High School,Shortstop,43.3,38.3,81.6,26.5,16.17,17.33,60
+Dax,McCaskill,17,High School,Third Base,52.5,60.8,113.3,26,24,23,73
+Jack ,Ruckert,16,High School,Shortstop,61.3,53.5,114.8,31.2,24,23,78.2
+Drew,Daigle,16,High School,Third Base,57.1,56.2,113.3,29,23.5,21,73.5
+Jackson,Peyton,14,High School,Corner OF,56.4,53.1,109.5,27.7,19.58,19,66.28
+Jacob,Monson,15,High School,First Base,65.1,59.7,124.8,27,20.75,19.58,67.33
+Jacob,Monson,15,High School,,65.1,59.7,124.8,27,20.75,19.58,67.33
+Cooper,Smith,17,High School,,61.1,62.2,123.3,25.8,21,19,65.8
+Max,Keller,15,High School,,45,49.3,94.3,24.5,20.75,20,65.25
+Tre,Bryant,17,High School,,63.2,63.1,126.3,31.8,23,21.5,76.3
+Lash,Henderson,15,High School,,68.7,82.3,151,31.8,23,21.5,76.3
+Jack,Ruckert24,17,High School,Shortstop,63.7,58.7,122.4,32.9,25.3,24.5,82.7
+Matthew,Kidder,16,High School,Shortstop,42.3,45.4,87.7,29.7,18.92,17.4,66.02
+Clayton,Fontenot,16,High School,Corner OF,52.8,49.2,102,31,21,19.33,71.33
+John,Stowers,16,High School,Catcher,64.3,57.1,121.4,25.8,23.5,22.2,71.5
+Greyson,Jenista,24,Minors,First Base,86,76.5,162.5,29,28,27.5,84.5
+Hayden,Cantrelle,22,Minors,Shortstop,56.6,58.8,115.4,30,20.5,21,71.5
+Davis,Wendzel,23,Minors,Third Base,63,67,130,28,29.33,23.75,81.08
+Daniel,Cabrera,22,Minors,Corner OF,67.1,66.9,134,27,22.17,24.42,73.59
+Tyler,Callihan,20,Minors,Second Base,79.9,64.8,144.7,24,27.75,25.75,77.5
+Brandon,Parker,21,Minors,Corner OF,66.4,66.2,132.6,28,26.5,25.17,79.67
+Grant,Witherspoon,25,Minors,Centerfield,55.9,67.2,123.1,26.5,30.08,24.5,81.08
+Zach,Watson,24,Minors,Centerfield,53.8,53.8,107.6,29,22,21,72
+Greyson,Jenista,25,Minors,First Base,86.4,80.9,167.3,27.9,30,27.33,85.23
+A.J.,Vukovich,21,Minors,Third Base,49.2,61.2,110.4,34,27.75,27.25,89
+Zac,Veen,20,Minors,Corner OF,72.7,79.7,152.4,34.4,25.25,23.5,83.15
+Won-Bin,Cho,17,Minors,Corner OF,73.8,68.8,142.6,30.2,23.58,21.25,75.03
+Jameson,Fisher,28,Minors,Corner OF,60.6,58.3,118.9,27.3,25.17,25.58,78.05
+Blaine,Crim,24,Minors,First Base,67.9,67.4,135.3,25.3,25.83,24.25,75.38
+Chandler,Redmond,25,Minors,First Base,67.4,64.8,132.2,24.8,24.33,22.17,71.3
+Cade,Doughty,21,Minors,Second Base,67.8,65.2,133,27.1,24.58,23,74.68
+Sonny,DiChiara,22,Minors,First Base,58.2,54.5,112.7,21.4,26.25,25,72.65
+Silas,Ardoin,21,Minors,Catcher,67.7,66.8,134.5,25.7,24.08,21.75,71.53
+Ivan,Melendez,22,Minors,Third Base,65,63,128,25,31,29,85
+Carter,Young,21,Minors,Shortstop,65.7,61.9,127.6,24.4,21,19.75,65.15
+Jacob,Gonzalez,24,Minors,Third Base,77.4,76.4,153.8,28.5,24.42,22.75,75.67
+Hudson,Head,21,Minors,Centerfield,67.1,63,130.1,37.5,21.83,24.75,84.08
+Jace,Jung,22,Minors,Second Base,61.8,60.9,122.7,27.3,25.58,23.17,76.05
+Jacob,Berry,21,Minors,Third Base,63.5,68.7,132.2,28.7,27.5,22.25,78.45
+Jacob,Berry,21,Minors,Third Base,68.7,63.5,132.2,28.7,27.5,22.25,78.45
+Josh,Crouch,23,Minors,Catcher,69.8,66.7,136.5,28,22.5,24.75,75.25
+Eddie,McCabe,22,Minors,Third Base,63.1,54.8,117.9,24.3,23.58,21.08,68.96
+Jordan,Beck,21,Minors,Corner OF,76.2,74.8,151,29,25,29.08,83.08
+Grant,Lavigne,23,Minors,First Base,85.3,73,158.3,28.4,28,24.92,81.32
+Addison,Barger,23,Minors,Shortstop,69.9,72.1,142,32.5,29.42,23.5,85.42
+Phil,Clarke,24,Minors,Catcher,74.4,69.4,143.8,29,21.08,23.83,73.91
+Drew,Avans,26,Minors,Centerfield,66,62.5,128.5,31.3,22.8,22.7,76.8
+Greyson,Jenista,26,Minors,First Base,78.4,77.5,155.9,28.4,29.75,28.57,86.72
+Max,Muncy,20,Minors,Third Base,60.3,61.7,122,30.1,24.42,24.33,78.85
+Joshua,Mears,21,Minors,Corner OF,72.4,77,149.4,33.8,34,25.67,93.47
+Tyler,Robertson,22,Minors,Corner OF,55.1,55.6,110.7,30.9,23.67,23.75,78.32
+Matt,Gorski,25,Minors,Centerfield,75.8,77.9,153.7,34,28,26.5,88.5
+Jonatan,Clase,20,Minors,Centerfield,73,65.3,138.3,31,31,27.5,89.5
+Dasan,Brown,21,Minors,Centerfield,76.5,90.6,167.1,37.4,23.33,21.6,82.33
+Elijah ,Green,19,Minors,Centerfield,66.2,63.9,130.1,34.6,24.25,24.25,83.1
+Mike,Antico,25,Minors,Centerfield,85.3,82.8,168.1,33.9,26.5,23.67,84.07
+Jaxx,Groshans,25,Minors,Catcher,56.1,49.4,105.5,28.9,23,22.25,74.15
+Josiah ,Sightler,24,Minors,First Base,70.2,74.9,145.1,28.5,25,24.5,78
+Shalin,Polanco,19,Minors,Centerfield,60.3,59.2,119.5,28.7,24,23,75.7
+Abrahan,Gutierrez,24,Minors,Catcher,60,58.5,118.5,24,21.5,24.25,69.75
+Jack,Brannigan,22,Minors,Third Base,69.9,74.2,144.1,31.6,27.08,25.25,83.93
+Nick,Gile,24,Minors,Third Base,59.2,57.7,116.9,27.5,22.08,23,72.58
+Robert,Moore,21,Minors,Second Base,58.8,60,118.8,29.2,22.17,21.83,73.2
+Matt,Shaw,22,Minors,Shortstop,60.8,66.2,127,35,25,23.42,83.42
+Joey,Loperfido,24,Minors,Centerfield,70.3,70,140.3,35.9,30.2,29,95.1
+Marcus,Brown,22,Minors,Shortstop,62,58,120,30.2,21.33,22.42,73.95
+Jacob,Wilson,21,Minors,Shortstop,57.9,54.8,112.7,26.5,20.42,20,66.92
+Gavin,Dugas,23,Minors,Second Base,65.8,69.4,135.2,26,25.08,21.5,72.58
+Kendall,George,19,Minors,Centerfield,51.7,55.3,107,38.8,22.67,19.75,81.22
+Brice,Matthews,21,Minors,Shortstop,72.1,74.5,146.6,34.3,26,25,85.3
+Justin,Riemer,21,Minors,Second Base,52.4,58.8,111.2,30.6,24.75,21.25,76.6
+Cam,Cauley,20,Minors,Shortstop,57.5,57.2,114.7,32.8,23.25,21.5,77.55
+Sebastian,Walcott,17,Minors,Shortstop,81.3,79.1,160.4,31.8,23.58,24.83,80.21
+Julian,Brock,22,Minors,Catcher,75.3,80.8,156.1,30.6,27.66,23,81.26
+Anthony,Gutierrez,19,Minors,Centerfield,67.2,67.7,134.9,30.2,23.75,23.5,77.45
+Geovanny,Planchart,23,Minors,Catcher,60.1,63.6,123.7,28.5,24.25,24.15,76.9
+Riley,Adams,24,MLB,Catcher,67,77,144,28,23.17,24.92,76.09
+Dylan,Carlson,22,MLB,Centerfield,65,65,130,27,25.5,25.67,78.17
+Anthony,Rizzo,31,MLB,First Base,69,74.5,143.5,27,26.75,29,82.75
+Willie,Calhoun,26,MLB,Corner OF,54.8,50.9,105.7,27,24.5,25.5,77
+Joey,Gallo,27,MLB,Corner OF,80,81.2,161.2,29,28,25.75,82.75
+Nathaniel,Lowe,25,MLB,First Base,60.2,58.6,118.8,29,27.25,24,80.25
+Jesse,Winker,27,MLB,Corner OF,56.6,56.9,113.5,26.5,24,22.5,73
+Corey,Dickerson,31,MLB,Corner OF,69,68.4,137.4,26,24,23.5,73.5
+Gleyber,Torres,24,MLB,Shortstop,64.6,56.6,121.2,25.5,21,21,67.5
+Bubba,Thompson,22,MLB,Centerfield,77.9,89.3,167.2,34,27.75,24.58,86.33
+Ryan,McKenna,23,MLB,Corner OF,79.2,75.5,154.7,32,26,23.5,81.5
+Jasson,Dominguez,18,MLB,Centerfield,67.4,72.6,140,24,28,22.75,74.75
+Delino,DeShields,28,MLB,Centerfield,64.5,59.9,124.4,27,24.5,21.75,73.25
+Austin,Allen,27,MLB,Catcher,66.3,66,132.3,29,23.5,26.5,79
+Francisco,Lindor,27,MLB,Shortstop,57.5,64.5,122,31,23.75,21.33,76.08
+Josh,Donaldson,35,MLB,Third Base,56.4,57.8,114.2,28,22.5,25.5,76
+Nathaniel,Lowe,26,MLB,First Base,72,72.7,144.7,28.4,26.08,23.5,77.98
+Heston,Kjerstad,22,MLB,Corner OF,65,54.6,119.6,30.3,23.3,22.5,76.1
+Riley,Adams,25,MLB,Catcher,70.7,74.5,145.2,24.4,23.3,26.75,74.45
+Paul,Goldschmidt,34,MLB,First Base,67.4,70.3,137.7,22.6,25.83,23,71.43
+Nolan,Arenado,30,MLB,Third Base,62.9,62.4,125.3,24.6,27.6,25,77.2
+Matt,Carpenter,36,MLB,Second Base,68.3,71.4,139.7,26.6,25.83,24.42,76.85
+Dylan,Carlson,23,MLB,Centerfield,76.9,81.3,158.2,28.7,26,26.92,81.62
+JaCoby,Jones,29,MLB,Centerfield,68.3,84,152.3,22.4,24.5,23.5,70.4
+Bobby,Bradley,25,MLB,First Base,70,78.5,148.5,30,26.92,26.75,83.67
+Pavin,Smith,25,MLB,Corner OF,72.6,57.2,129.8,24.6,23,23,70.6
+J.D.,Davis,28,MLB,Third Base,57.6,73.5,131.1,26.4,23.8,22.8,73
+David,Dahl,27,MLB,Corner OF,70.9,65.2,136.1,34.2,25.5,25.3,85
+Anthony,Volpe,20,MLB,Shortstop,66.2,69.3,135.5,32.2,24.5,24.33,81.03
+Alec,Bohm,25,MLB,Third Base,82.3,80.5,162.8,24.3,25.17,24,73.47
+Alex,Bregman,27,MLB,Third Base,72.2,61,133.2,34,23.58,22,79.58
+Michael,Papierski,25,MLB,Catcher,80.6,72.3,152.9,28.1,26.67,23.33,78.1
+Dom,Nunez,27,MLB,Catcher,61.8,51.4,113.2,26.2,22.17,22.75,71.12
+Corbin,Carroll,21,MLB,Corner OF,85.7,79.9,165.6,34,24.67,22,80.67
+Christian,Walker,30,MLB,First Base,64.9,68.3,133.2,26.4,26.75,25.42,78.57
+Oscar,Mercado,27,MLB,Centerfield,85.3,76.8,162.1,32,25.58,22.83,80.41
+Joey,Votto,38,MLB,First Base,70.4,66.6,137,30.1,24,22.5,76.6
+Julio,Rodriguez,21,MLB,Centerfield,87.2,81.4,168.6,30.4,28.33,25.5,84.23
+Bobby,Dalbec,26,MLB,First Base,67.7,79.1,146.8,27.6,25.33,28,80.93
+Brandon,Nimmo,29,MLB,Centerfield,67,64,131,24,30,23,77
+Mitch,Garver,31,MLB,Catcher,52.6,59.4,112,31,26.25,22.42,79.67
+Nolan,Gorman,22,MLB,Second Base,86.2,84.4,170.6,29.9,26.3,23.92,80.12
+Andrew,Knizner,26,MLB,Catcher,64,73.9,137.9,30,26,25.17,81.17
+John,Nogowski,29,MLB,First Base,64.9,66.7,131.6,23.8,21.67,23.67,69.14
+Yoshi,Tsutsugo,30,MLB,First Base,73,69.1,142.1,23.4,20.83,19.58,63.81
+Ryan,Vilade,23,MLB,Corner OF,69,64,133,25.8,27.17,20.5,73.47
+Josh,Jung,24,MLB,Third Base,55.2,60.4,115.6,21.8,25.25,23.67,70.72
+Bryan,Reynolds,27,MLB,Centerfield,68.2,76.6,144.8,33.3,27.25,24.42,84.97
+Brendan,Donovan,25,MLB,Second Base,82.4,76.9,159.3,31.8,24.83,22.92,79.55
+Dylan,Carlson,24,MLB,Centerfield,77.5,76.2,153.7,28.1,25,24.58,77.68
+Kike,Hernandez,31,MLB,Centerfield,69.7,68.8,138.5,26,22,21.25,69.25
+Michael,Papierski,26,MLB,Catcher,73,70.7,143.7,28.3,26.25,24.5,79.05
+Josh,Bell,30,MLB,First Base,74.4,74.4,148.8,24.3,31.67,28.5,84.47
+Christopher,Morel,23,MLB,Shortstop,69.2,67.1,136.3,30.3,23.08,23.5,76.88
+Josh,Smith,25,MLB,Third Base,55.5,53,108.5,32,20.5,22.25,74.75
+Jesse,Winker,26,MLB,Corner OF,54,56,110,26,25.58,21.25,72.83
+Josh,Jung,21,MLB,Third Base,41,58,99,21.5,24.42,23,68.92
+Randal,Grichuk,31,MLB,Corner OF,65.4,57.8,123.2,29.8,29.58,27.33,86.71
+Nolan,Arenado,31,MLB,Third Base,68.9,66.2,135.1,25.7,27,26.3,79
+Paul,DeJong,29,MLB,Shortstop,63,68.9,131.9,30,25,24.83,79.83
+Nathaniel,Lowe,27,MLB,First Base,73.5,66.7,140.2,29,28.17,24.33,81.5
+Brendan,Rodgers,26,MLB,Second Base,72.1,73,145.1,31,26.5,27.33,84.83
+Trevor,Story,30,MLB,Shortstop,74.4,68.9,143.3,38,29.5,24.75,92.25
+Josh,Lowe,24,MLB,Corner OF,80.7,68.7,149.4,36.8,30.25,27.17,94.22
+Evan,White,26,MLB,First Base,60.8,62.4,123.2,31.5,29,25.9,86.4
+Kolten,Wong,32,MLB,Second Base,60.3,60.3,120.6,31,21.9,22,74.9
+Cooper,Hummel,28,MLB,Corner OF,62.1,61.2,123.3,30,25.2,23.61,78.81
+Jarred,Kelenic,23,MLB,Corner OF,68,64,132,30,27.5,27.1,84.6
+Cavan,Biggio,27,MLB,Second Base,64.2,60.8,125,27.4,22.84,22.75,72.99
+Mitch,Haniger,32,MLB,Corner OF,76.9,70.4,147.3,30.3,28.83,25.5,84.63
+Christian,Vazquez,32,MLB,Catcher,66.5,65.3,131.8,23.8,22.25,22.5,68.55
+Alec,Bohm,26,MLB,Third Base,76.2,83.5,159.7,26.8,26,25.25,78.05
+Evan,Carter,20,MLB,Corner OF,67.1,73,140.1,33,27,24,84
+Cal,Raleigh RH,26,MLB,Catcher,72.1,66.2,138.3,26,28,26.25,80.25
+Brewer,Hicklen,26,MLB,Corner OF,74.4,76.3,150.7,39.3,32.25,28.83,100.38
+Nick,Pratto,24,MLB,First Base,65.2,67.4,132.6,28.9,25.33,24.58,78.81
+Jared,Walsh,29,MLB,First Base,63.5,63.9,127.4,28.2,25.5,25.67,79.37
+Austin,Riley,25,MLB,Third Base,69.2,70.7,139.9,30.9,25.58,25.33,81.81
+Pete,Alonso,28,MLB,First Base,69.9,71.2,141.1,28.4,28,26.25,82.65
+Juan,Yepez,24,MLB,Corner OF,73.7,74.4,148.1,30.6,26.75,24.33,81.68
+Willson,Contreras,30,MLB,Catcher,67.2,73,140.2,28.1,27.58,25.09,80.77
+William,Contreras,25,MLB,Catcher,59.9,63.9,123.8,28.7,25.67,23.33,77.7
+Luis,Arraez,25,MLB,Second Base,53.4,50.8,104.2,20.9,21.5,20,62.4
+Mark,Mathias,28,MLB,Second Base,78.4,76.5,154.9,28.4,24.3,22.5,75.2
+David,Peralta,35,MLB,Corner OF,67.8,69.6,137.4,21.2,26.83,23,71.03
+Brian ,Anderson,29,MLB,Third Base,69.7,68.7,138.4,25.1,26.42,22.76,74.28
+Cal,Mitchell,23,MLB,Corner OF,78.4,78.2,156.6,31.5,24.75,24.58,80.83
+Canaan,Smith-Njigba,23,MLB,Corner OF,69.4,67.1,136.5,26.9,28.58,24.83,80.31
+Travis,Swaggerty,25,MLB,Corner OF,64.5,72.3,136.8,31.5,25,23.75,80.25
+Nick,Gonzales,23,MLB,Second Base,73.7,76.2,149.9,29.6,22.92,21.67,74.19
+Liover,Peguero,22,MLB,Shortstop,80.5,83.1,163.6,29.1,26,24,79.1
+Colin,Moran,30,MLB,Third Base,65.9,64.6,130.5,22.5,25,22.67,70.17
+Nolan,Arenado '23,32,MLB,Third Base,69.9,69.2,139.1,26.3,25.25,26.5,78.05
+Tommy,Edman,28,MLB,Second Base,56.7,51.2,107.9,32,26,23,81
+Jordan,Groshans,23,MLB,Third Base,59.4,61.3,120.7,21.2,20.25,20,61.45
+Tyler ,Freeman,24,MLB,Third Base,63.8,64,127.8,27.1,21,21.5,69.6
+Will,Brennan,25,MLB,Corner OF,62.5,63.3,125.8,28.8,23.33,22.67,74.8
+Jo,Adell,24,MLB,Corner OF,73,72.6,145.6,40,30.5,31,101.5
+Jordan ,Walker,21,MLB,Corner OF,83.5,75.4,158.9,36,28,28,92
+Carson,Kelly,29,MLB,Catcher,69.8,68.3,138.1,24.5,23,22.5,70
+Paul,Goldschmidt,36,MLB,First Base,62.1,66.3,128.4,25.3,29.25,24.5,79.05
+Travis,D'Arnaud,34,MLB,Catcher,79.5,80,159.5,27.4,24.5,23,74.9
+Connor,Joe,31,MLB,Corner OF,75.4,85,160.4,31.1,26.4,24.75,82.25
+Jason,Delay,28,MLB,Catcher,74.5,68.6,143.1,31.9,25.17,22.2,79.27
+Ben,Rortvedt,26,MLB,Catcher,72.9,65.2,138.1,36,25,24.58,85.58
+Gleyber,Torres,27,MLB,Second Base,68.8,64.6,133.4,24.2,23.25,22.25,69.7
+Riley,Adams,27,MLB,Catcher,59.8,82.9,142.7,26.5,24.33,26.75,77.58
+Jeremy,Pena,26,MLB,Shortstop,82.1,83,165.1,34.6,27.17,24.7,86.47
+Wyatt,Langford,22,MLB,Corner OF,80.7,77.8,158.5,36.7,32.25,28.25,97.2
+Charlie,Mosely,12,Youth,,21,21,42,13,13.67,15.5,42.17
+Alex,Huffine,13,Youth,,30,32,62,14,16,15,45
+Callum,Mucklow,10,Youth,,17,17,34,10,10.75,12.08,32.83
+Kayden,Boyer,13,Youth,,28,26,54,16,11.75,12.75,40.5
+Jordan,Oberle,14,Youth,,39,37,76,16,14.67,14.67,45.34
+Brooks,Estorge,14,Youth,,24,25,49,17,10,13.17,40.17
+Sawyer,Seguin,14,Youth,,19,24,43,15,13.5,17.83,46.33
+Brein ,Ledford,13,Youth,,33,33,66,23,11.17,16.08,50.25
+Drew,Daigle,13,Youth,,34,34,68,17,10.75,13.83,41.58
+Cooper,Smith,14,Youth,,37,37,74,21,16.42,17.42,54.84
+Cade,Durbin,13,Youth,,22,24,46,16,8.92,11.17,36.09
+Gavin,Laird,14,Youth,,40,42,82,19,14.5,17.75,51.25
+Jordin,Griffin,12,Youth,,26,26,52,20,11.5,14,45.5
+Carson,Christ,13,Youth,,41,40,81,21,15,16.33,52.33
+Cooper,Smith,14,Youth,,55,47,102,20,18.5,20.75,59.25
+Sullivan,Edmonds,11,Youth,,16,14,30,12,8.33,12,32.33
+Cullen,Weller,12,Youth,,33,33,66,17,11.67,15,43.67
+Jude,Weller,14,Youth,,31,35,66,19,15,16.5,50.5
+Cal,Cassard,13,Youth,,24,25,49,15,9.17,11.92,36.09
+Ethan,Pickering,12,Youth,,26.6,27,53.6,13,9.5,13.6,36.1
+Aiden,Elliott,14,Youth,,51.9,56.2,108.1,21,18.67,18.67,58.34
+Mac,Beadle,13,Youth,,25.5,23.6,49.1,16,9.5,12.25,37.75
+Aiden,Harris,11,Youth,,21.9,21.9,43.8,10,11.67,14.17,35.84
+Sawyer,Pruitt,14,Youth,,35.3,41.6,76.9,19,16.67,18.25,53.92
+Gavin,Laird,14,Youth,,45.1,50.5,95.6,19,15.75,18.67,53.42
+Ryan,Ainsworth,14,Youth,,33.9,32.2,66.1,19,15.42,17,51.42
+Brayden,Allen,14,Youth,,20.4,17.9,38.3,17,8.9,12,37.9
+Charlie,Mosely,13,Youth,,18.2,23.7,41.9,14,14,15,43
+Jon Robert,Waddell,9,Youth,,17.8,18.5,36.3,15,10.08,12,37.08
+Bryce,Hager,9,Youth,,18.2,16.8,35,13,11.83,12.25,37.08
+Aiden,Karr,14,Youth,,41.5,41.4,82.9,20,13.91,16.33,50.24
+Brooks,Bumstead,12,Youth,,25.7,29,54.7,17,12.58,15,44.58
+Paxton,Smith,14,Youth,,25.4,23.8,49.2,18,9.67,14.17,41.84
+Karsyn,Pitre,11,Youth,,19.2,22.3,41.5,16,10.5,12.25,38.75
+Brooklyn,Gremillion,12,Youth,,21.4,20.9,42.3,16,12.17,15.58,43.75
+Jackson,Peyton,12,Youth,,37.6,38.1,75.7,21.5,14.67,15.5,51.67
+Hayes,Kirkpatrick,11,Youth,,15.2,18.1,33.3,14,10.67,14,38.67
+Elijah,Avelar,14,Youth,,39.8,48.4,88.2,20.5,16,17.5,54
+Gavin,Moore,14,Youth,,41.6,50.1,91.7,20,12.83,16.42,49.25
+Slade,Jindal,14,Youth,,28.2,36.1,64.3,26.5,15.75,18.25,60.5
+Dylan,Strenth,14,Youth,,32,31.4,63.4,21,10.67,13.83,45.5
+Jordan,Rosario,14,Youth,,37.4,43,80.4,19,13.83,16.17,49
+Quintin,Chenevert,13,Youth,,24.8,22.7,47.5,19,15.75,16.25,51
+Cody,Hardman,14,Youth,,43.3,39.2,82.5,19,15.33,17.5,51.83
+Boyd,Cooper,13,Youth,,38.8,37.4,76.2,18,15,15.75,48.75
+Lucas,Badalato,14,Youth,,38.3,40.5,78.8,15,13.33,14.17,42.5
+Anthony,DiStefano,14,Youth,,24.5,31.2,55.7,19.5,21,17.75,58.25
+Peter,DiStefano,12,Youth,,24.6,22,46.6,17.5,14.17,15.42,47.09
+Frank,Giordano,13,Youth,,29.8,30.9,60.7,14,17.17,20.25,51.42
+Marcello,Giordano,11,Youth,,22,21.3,43.3,14,11.33,12.42,37.75
+Will,Naujokaitis,13,Youth,,36.4,35.7,72.1,16,17.92,19.17,53.09
+Brendan,Schwarting,14,Youth,,46.3,41.9,88.2,24,15,18.08,57.08
+Trey,Vinson,14,Youth,,37.5,41.9,79.4,25.5,14,15.5,55
+Trevor,Masten,14,Youth,,35.3,29.7,65,21,14.67,16.5,52.17
+Tanner,Binns,14,Youth,,53.7,49.8,103.5,27,15.25,17.17,59.42
+Cole,Graham,14,Youth,,19.2,24.5,43.7,18.5,9.33,10.17,38
+Will,Rhodes,14,Youth,,32.1,29.1,61.2,22.5,13.5,17.42,53.42
+Tucker,Carroll,14,Youth,,29.3,30.9,60.2,17.5,9.58,13.67,40.75
+Cash,Money,14,Youth,,42.2,47.7,89.9,18.5,14.67,18,51.17
+Evan,McElvain,14,Youth,,33.1,32.2,65.3,14.5,10.83,14.75,40.08
+Sam,Higgins,13,Youth,,34.6,38.1,72.7,17,12.5,14.75,44.25
+Jacob,Duffy,12,Youth,,35.2,35,70.2,20,11,11.83,42.83
+Riley,Blackwell,14,Youth,,29,27,56,16.5,11.75,13,41.25
+August,Scott,14,Youth,,42.4,45.4,87.8,22,15.67,16.83,54.5
+Baylor,Kline,9,Youth,,16.9,16.8,33.7,13,10.75,12.42,36.17
+Zachary,Dotter,13,Youth,,41.7,37.6,79.3,21.4,14.67,16,52.07
+Ian,McCauley,13,Youth,,22.6,32.4,55,20.4,10.67,13.33,44.4
+Hayes,Kirkpatrick,11,Youth,,20.2,21.2,41.4,15,7.5,9.58,32.08
+Micah,Bastoe,9,Youth,,15.1,13.7,28.8,12.9,8.92,10.17,31.99
+Brooklyn,Gremillion,12,Youth,,29.6,29.1,58.7,20.4,11.17,13.25,44.82
+Ethan,Pickering,13,Youth,,35,29.3,64.3,20,16.25,14.67,50.92
+Cole,Tyson,13,Youth,,13.6,13.6,27.2,13.5,5.5,10.83,29.83
+Callum,Mucklow,11,Youth,,17.9,17.3,35.2,14.4,13,14.42,41.82
+Carter,Barfield,11,Youth,,17.7,17.5,35.2,13.7,11.67,12.83,38.2
+James,Smith,9,Youth,,12.5,13.3,25.8,15.2,9.08,10.83,35.11
+Zachary,Dotter,13,Youth,,41.9,45.5,87.4,20.8,16.17,17.58,54.55
+William,Tycer,11,Youth,,14.1,16.8,30.9,14.4,10.67,13.42,38.49
+Holden,Dryden,13,Youth,,27.8,24.9,52.7,19.9,14.58,14.5,48.98
+Hayes,Kirkpatrick,12,Youth,,22,20.2,42.2,15,6.75,9.83,31.58
+Jackson,Peyton,13,Youth,,42.8,45.6,88.4,21.6,15.6,17,54.2
+Jack,Sperry,11,Youth,,12.4,15,27.4,14.9,13.17,15.5,43.57
+Jack,James,11,Youth,,15.2,17.1,32.3,14.4,11.42,13.27,39.09
+JW,Jones,11,Youth,,18.1,16.1,34.2,16.3,11.6,12.8,40.7
+Brooks,Hebert,12,Youth,,18.5,19.6,38.1,23.4,16.5,16.4,56.3
+Ridge,Hebert,10,Youth,,15.2,18,33.2,17.7,12.8,12.8,43.3
+Dennin,Bowles,10,Youth,,13.3,13,26.3,20,12.2,15.2,47.4
+Henry,Kucharchuk,13,Youth,,16.7,24.6,41.3,18.9,18.33,20.08,57.31
+Parker,Girlinghouse,12,Youth,,25.9,21.8,47.7,23.4,20.4,18.8,62.6
+Landon,McDougall,10,Youth,,19.7,16.6,36.3,17.9,10.4,13.6,41.9
+Tyler,Smith,11,Youth,,21.6,24.8,46.4,13.8,15.6,15.2,44.6
+Willie,Lutz,12,Youth,,22.6,23.2,45.8,19.1,15.2,15.33,49.63
+David,Tycer,11,Youth,,22.1,24.2,46.3,17.5,13.42,14.75,45.67
+Brennan,Fooshee,14,Youth,,21.4,22.7,44.1,23.2,16.08,17,56.28
+Blayne,Nelson,11,Youth,,12.9,18.6,31.5,17.5,10.6,12,40.1
+Wyatt,Dudley,11,Youth,,13.4,14.6,28,17.2,9.6,11.33,38.13
+Michael,Henley,11,Youth,,28.7,25.9,54.6,20.3,18.67,19.08,58.05
+Nelson,Bensel,14,Youth,,20.9,21.3,42.2,21.9,8.08,10.08,40.06
+Charlie,Kincaid,9,Youth,,22.4,23,45.4,13.8,12,13,38.8
+Camden,Chemin,10,Youth,,27.4,23.9,51.3,14.7,12.92,13.92,41.54
+Foster,Alley,9,Youth,,8.9,11.3,20.2,13,5.5,9.17,27.67
+Cam,Goins,11,Youth,,14.5,14.6,29.1,18.1,9.83,12.33,40.26
+William,Walton,8,Youth,,9.1,7.8,16.9,14.8,6.83,8.83,30.46
+Preston,Fromenthal,12,Youth,,25.5,25.9,51.4,13.3,16.5,16.83,46.63
+Coehyn,Barnett,11,Youth,,9,8.4,17.4,14.3,9.58,10.58,34.46
+Luke,Phillips,10,Youth,,17.8,19,36.8,16.7,10.83,12.75,40.28
+Will,Tyler,13,Youth,,21.8,23.2,45,17.3,17.58,18.75,53.63
+Bowen,Fontenot,10,Youth,,18.8,21.1,39.9,17.5,14.83,16,48.33
+Zachary,Dotter,14,Youth,,51.6,49.8,101.4,23.7,16.75,19,59.45
+Tripp,Sauntry,10,Youth,,16.7,16.7,33.4,14,13,14,41
+Kobe,Thrower,13,Youth,,31.3,32.5,63.8,20.9,20.17,20,61.07
+Cullen,Weller,14,Youth,,50.4,51.5,101.9,22.4,30.25,26.5,79.15
+Brooks,Bumstead,13,Youth,,43.3,46.6,89.9,21.1,16.83,17.42,55.35
+Pierce,Madison,8,Youth,,3.9,5.7,9.6,13.2,8.3,11.3,32.8
+Jack,Polson,10,Youth,,23.8,23.7,47.5,18.5,14.33,13.17,46
+Luke,Domingue,12,Youth,,23.4,26.7,50.1,20.2,15.5,14.75,50.45
+Beecher,Edmonds,8,Youth,,10.4,11,21.4,12.5,7.17,9.25,28.92
+Reese,Edmonds,9,Youth,,14.9,18.7,33.6,14.5,8.08,11.17,33.75
+Ryuu,Gaston,10,Youth,,21,20.1,41.1,17.7,10.92,13.25,41.87
+Jack,Sperry,11,Youth,,17.1,18.3,35.4,16.1,13.5,16.08,45.68
+Jack,Stokes,11,Youth,,31.8,36.1,67.9,19.4,18.75,20.75,58.9
+Callum,Mucklow,12,Youth,,26.6,25.9,52.5,15.4,15,16.25,46.65
+Finn,Rosenquist,11,Youth,,18.7,22.5,41.2,12.4,13.5,14.17,40.07
+Jude,Guillory,12,Youth,,31,28.8,59.8,17.2,15.33,16.08,48.61
+Bryce,Stott,13,Youth,,21.4,23.9,45.3,23,18,17.5,58.5
+Brock,Black,13,Youth,,22.2,22.3,44.5,20.7,14.75,16.25,51.7
+Kane,Guitrau,12,Youth,,27.1,27.8,54.9,23,18,20,61
+Samuel,Gendusa,11,Youth,,13.8,15.1,28.9,13.7,9.08,11.33,34.11
+Miles,Torregano,10,Youth,,10.1,12.1,22.2,18.1,11.5,13.2,42.8
+Lathan ,Melancon,13,Youth,,35.3,39.2,74.5,19.7,19.83,20.08,59.61
+Townsend,Boyd,11,Youth,,24.3,21.2,45.5,17.2,11.08,14.83,43.11
+William,Tycer,12,Youth,,16.4,18.6,35,17.3,12.1,13.7,43.1
+Jackson,Peltier,12,Youth,,26.8,25.9,52.7,16,14.08,15.5,45.58
+Aaden,Griffith,12,Youth,,15,16.9,31.9,14.6,9.25,11,34.85
+Paris,White Jr.,12,Youth,,19.8,20.5,40.3,16.7,12.33,14.5,43.53
+Ace,Williams,9,Youth,,19.6,23.4,43,17.6,8.92,12.33,38.85
+Nathan,Toups,12,Youth,,22,22.8,44.8,18,16.67,16.42,51.09
+Charlie,Bondy,10,Youth,,17.7,18.4,36.1,17.7,9.25,11.75,38.7
+Duncan,Smith,9,Youth,,18.3,19.7,38,14.1,10.83,13.83,38.76
+Logan,Cliburn,12,Youth,,23.7,24.8,48.5,17.2,14.67,15.5,47.37
+Joah,Headrick,13,Youth,,35,44,79,19.6,8,10.7,38.3
+Benjamin,Bordelon,12,Youth,,22.4,22,44.4,16.5,12.83,13.5,42.83
+Jensen,Senia,9,Youth,,14.7,13.6,28.3,12.6,9,11.75,33.35
+Holden,Dryden,13,Youth,,39.6,40.9,80.5,20.1,20,20.67,60.77
+Jackson,Peyton,13,Youth,,55.9,51.7,107.6,23.8,30.25,23.83,77.88
+Elias,Peyton,7,Youth,,13.8,12.6,26.4,14.4,7.08,11.42,32.9
+Draven,Payne,14,Youth,,34,33.4,67.4,17.7,20.17,19.17,57.04
+Jude,Allen,11,Youth,,22.5,22.6,45.1,20.2,10.83,12.58,43.61
+Abel,Aldy,11,Youth,,24.9,23.6,48.5,15,13.33,15,43.33
+Blumes,Tracy,13,Youth,,22.7,20.4,43.1,18,7.46,11.33,36.79
+Noah,Hendricks,10,Youth,,14,19.6,33.6,17.6,11.75,13,42.35
+Michael,Levy,11,Youth,,19.3,25.2,44.5,16.7,11.8,15.2,43.7
+Simon,Levy,9,Youth,,18.4,16.6,35,12.7,8.9,10.33,31.93
+Christopher,Dippel,13,Youth,,31.2,28.5,59.7,18.9,8,12.75,39.65
+Andrew,Green,10,Youth,,18.3,21.2,39.5,20.2,10.16,12.33,42.69
+Austin,Percival,11,Youth,,27.4,23.8,51.2,21.9,16.92,18.5,57.32
+Lucas,Noel,12,Youth,,21.5,24.2,45.7,17.9,11.67,15,44.57
+Hudson,Smith,8,Youth,,13.2,11.9,25.1,13.9,7.67,10,31.57
+William,Tycer24,13,Youth,,23.3,26.6,49.9,18.8,15,15.5,49.3
+Jack,Stokes,13,Youth,,51.4,60.3,111.7,25.6,17.42,20.83,63.85
+Finn,McKnight,9,Youth,,15.3,17,32.3,14.2,11.92,13.04,39.16
+Finn,Carpentier,13,Youth,,25.2,24.8,50,22.4,16.93,16.4,55.73
+Jack,James,13,Youth,,32.4,34,66.4,19.2,21.7,18.7,59.6
+Roman,Wallace,11,Youth,,21.6,22.8,44.4,13.9,14.08,15.17,43.15
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+, ,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+, ,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,Grip Percentiles,,,,,
